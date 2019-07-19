@@ -13,6 +13,6 @@ for i in a:
         pass
         
 if co>=1 and co1>=1:
-    print("yes")
+    print("Yes")
 else:
-    print("no")
+    print("No")
